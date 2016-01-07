@@ -52,7 +52,7 @@ def read_trajectory_from_file(file):
     
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Usage: gui.py <filename 1> <filename 2> ...")
+        print("Usage: render.py <filename 1> <filename 2> ...")
         exit(0)
     for filename in sys.argv[1:]:
         traj, word = read_trajectory_from_file(filename)
