@@ -1,9 +1,9 @@
 # Online-Handwritten George Washington Dataset
 
-The [George Washington dataset] is a very popular collection of scanned pages of handwritten letters from George Washington and his affiliates. More specifically, data from Series 2, Letterbook 1, pages 270-279 and 300-309 is often used in word spotting experiments (see also [Fischer et al]). I needed to have an online-handwritten version of those pages and since no such dataset was available, I created one myself.
+The [George Washington dataset] is a very popular collection of scanned pages of handwritten letters from George Washington and his affiliates. More specifically, data from Series 2, Letterbook 1, pages 270-279 and 300-309 is often used in word spotting experiments (see also [Fischer et al]). We needed to have an online-handwritten version of those pages and since no such dataset was available, we created one ourselves.
 
 ### Format
-You will find a subfolder for each of the 20 pages of the original George Washington dataset. There is a text file for each single word (words that are split by a return are usually also split into two text files). The first line in each file contains the string representation of the word. The other lines each contain a single point and have the format
+You will find a subfolder for each of the 20 pages of the original George Washington dataset. It was written by a single writer and contains a text file with the online-trajectory for each single word (words that are split by a return are usually also split into two text files). The first line in each file contains the string representation of the word. The other lines each contain a single point and have the format
 ```
 x<space>y<space>pen-state
 ```
