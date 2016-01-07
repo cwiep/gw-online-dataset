@@ -25,6 +25,6 @@ Christian Wieprecht, Leonard Rothacker, Gernot A. Fink, "Word Spotting in Histor
 
    [George Washington dataset]: <http://memory.loc.gov/ammem/gwhtml/>
 
-   [Fischer et al] <http://www.iam.unibe.ch/fki/databases/iam-historical-document-database/washington-database>
+   [Fischer et al]: <http://www.iam.unibe.ch/fki/databases/iam-historical-document-database/washington-database>
 
 
